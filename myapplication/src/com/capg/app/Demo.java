@@ -10,6 +10,10 @@ public class Demo {
 		
 		System.out.println("hii guys");
 
+		
+		System.out.println("imran updated code");
+
+		System.out.println("thank u");
 	}
 
 }
