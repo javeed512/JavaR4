@@ -6,7 +6,9 @@ public class Demo {
 
 		System.out.println("Hello friends");
 		
+		System.out.println("Code modified");
 		
+		System.out.println("hii guys");
 
 	}
 
