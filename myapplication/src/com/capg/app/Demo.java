@@ -9,7 +9,10 @@ public class Demo {
 		System.out.println("Code modified");
 		
 		System.out.println("hii guys");
+		
+		System.out.println("imran updated code");
 
+		System.out.println("thank u");
 	}
 
 }
